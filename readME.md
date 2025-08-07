@@ -47,7 +47,7 @@ Follow these steps to get the project up and running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/college-insights-dashboard.git](https://github.com/your-username/college-insights-dashboard.git)
+git clone [https://github.com/dharshan-devx/College-Insights-Dashboard.git](https://github.com/dharshan-devx/College-Insights-Dashboard.git)
 cd college-insights-dashboard
 2. Create a Virtual Environment
 It's highly recommended to use a virtual environment to manage project dependencies.
@@ -85,3 +85,4 @@ Feel free to open issues or submit pull requests to improve the project.
 
 
 © 2025 [Dharshan Sondi]
+
