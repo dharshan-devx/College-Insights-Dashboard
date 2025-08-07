@@ -83,4 +83,5 @@ Your browser will automatically open a new tab with the running dashboard.
 🤝 Contribution
 Feel free to open issues or submit pull requests to improve the project.
 
-© 2024 [Dharshan Sondi]
+
+© 2025 [Dharshan Sondi]
