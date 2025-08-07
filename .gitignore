@@ -1,0 +1,35 @@
+# Python-specific files and directories
+# ------------------------------------
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+*.egg-info/
+
+# Jupyter Notebook specific
+# -------------------------
+.ipynb_checkpoints/
+
+# IDE specific (VS Code)
+# ----------------------
+.vscode/
+
+# Data and Outputs (Generated files)
+# ----------------------------------
+# It is a best practice to not commit raw data or generated output files.
+# The data and outputs should be recreated by running the project scripts.
+/data/*.csv  # Ignore all CSV files inside the data directory
+/data/*.zip  # Ignore compressed data files
+/outputs/    # Ignore all contents of the outputs directory
+
+# Machine Learning specific
+# -------------------------
+*.pkl        # Ignore saved models (e.g., model.pkl)
+*.h5
+*.joblib
+
+# Operating System Files
+# ----------------------
+.DS_Store
+Thumbs.db
