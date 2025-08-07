@@ -1,0 +1,21 @@
+student_id,name,department,year,gender
+1,Alice Smith,Computer Science,2,F
+2,Bob Johnson,Electronics,3,M
+3,Charlie Brown,Mechanical,1,M
+4,Diana Prince,Computer Science,2,F
+5,Peter Parker,Electronics,1,M
+6,Bruce Wayne,Mechanical,3,M
+7,Clark Kent,Computer Science,1,M
+8,Lois Lane,Electronics,2,F
+9,Barry Allen,Mechanical,2,M
+10,Selina Kyle,Computer Science,3,F
+11,Arthur Curry,Mechanical,1,M
+12,Barbara Gordon,Computer Science,2,F
+13,Oliver Queen,Electronics,3,M
+14,Hal Jordan,Mechanical,2,M
+15,Kara Danvers,Computer Science,1,F
+16,Pamela Isley,Electronics,2,F
+17,Lex Luthor,Computer Science,3,M
+18,Harleen Quinzel,Electronics,1,F
+19,Victor Stone,Computer Science,2,M
+20,Billy Batson,Mechanical,3,M

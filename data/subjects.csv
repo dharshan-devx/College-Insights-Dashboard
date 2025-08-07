@@ -1,0 +1,13 @@
+subject_id,name,semester
+CS101,Introduction to Programming,1
+CS201,Data Structures & Algorithms,2
+CS301,Database Management,3
+CS401,Machine Learning,4
+EC101,Basic Electronics,1
+EC201,Analog Circuits,2
+EC301,Digital Communication,3
+EC401,VLSI Design,4
+ME101,Engineering Graphics,1
+ME201,Thermodynamics,2
+ME301,Fluid Mechanics,3
+ME401,Robotics,4
